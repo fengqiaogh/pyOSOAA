@@ -50,4 +50,3 @@ docs = [
 ]
 
 [tool.setuptools.packages.find]
-where = ["pyOSOAA"] 
